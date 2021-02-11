@@ -1,4 +1,3 @@
 # Digital-Clock
-### Digital clock with current timing
-## Live Clock 
-### https://vipulgupta22.github.io/Clock/
+#### Digital clock with Greetings using JS
+##### https://vipulgupta22.github.io/Clock/
